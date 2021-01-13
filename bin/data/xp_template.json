@@ -27,28 +27,28 @@
     "GlobalLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 18,
+      "FontSize": 17,
       "Pos": {
-        "X": 171,
+        "X": 168,
         "Y": 91
       }
     },
     "GuildLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 18,
+      "FontSize": 17,
       "Pos": {
-        "X": 171,
+        "X": 168,
         "Y": 145
       }
     },
     "GlobalRank": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 16,
+      "FontSize": 15,
       "Pos": {
-        "X": 185,
-        "Y": 108
+        "X": 183,
+        "Y": 110
       }
     },
     "GuildRank": {
@@ -56,8 +56,8 @@
       "Show": true,
       "FontSize": 16,
       "Pos": {
-        "X": 186,
-        "Y": 164
+        "X": 183,
+        "Y": 166
       }
     },
     "TimeOnLevel": {
@@ -101,11 +101,11 @@
           "Color": "ffb6c1",
           "PointA": {
             "X": 16,
-            "Y": 182
+            "Y": 184
           },
           "PointB": {
             "X": 16,
-            "Y": 194
+            "Y": 199
           },
           "Length": 346,
           "Direction": 3
