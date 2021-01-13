@@ -88,7 +88,7 @@
           "Color": "ffb6c1",
           "PointA": {
             "X": 16,
-            "Y": 132
+            "Y": 131
           },
           "PointB": {
             "X": 16,
@@ -101,11 +101,11 @@
           "Color": "ffb6c1",
           "PointA": {
             "X": 16,
-            "Y": 187
+            "Y": 185
           },
           "PointB": {
             "X": 16,
-            "Y": 200
+            "Y": 197
           },
           "Length": 346,
           "Direction": 3
